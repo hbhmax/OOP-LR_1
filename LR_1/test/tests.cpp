@@ -8,7 +8,7 @@ TEST(test_01, basic_test_set)
 
 TEST(test_02, basic_test_set)
 {
-    ASSERT_TRUE(removeVowels("1a2a3a4a")=="12");
+    ASSERT_TRUE(removeVowels("1a2a3a4a")=="1234");
 }
 
 TEST(test_03, basic_test_set)
