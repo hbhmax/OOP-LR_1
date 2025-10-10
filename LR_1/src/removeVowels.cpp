@@ -3,7 +3,7 @@
 
 std::string removeVowels(std::string str){
 
-    std::string glasnye = "aeiou";
+    std::string glasnye = "aeiouy";
     std::string final = "";
 
     int flag = 0;
